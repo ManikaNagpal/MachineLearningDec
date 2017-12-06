@@ -1,0 +1,92 @@
+R/SAS/Julia
+
+
+Core Python
+Functional Programming
+Filter
+Map
+Closures
+Lambda Expressions
+Modules
+List
+Dictionary
+Tuples
+Game Development
+
+Data Analysis
+Pandas
+
+Data Visualization
+Matplotlib/Seaborn - Graphs
+
+Statistics
+Mean/Median/Mode
+
+Machine Learning
+scikit-learn - sklearn
+
+Supervised Learning
+Regression - Continuous
+- Linear Regression
+  - y = mx + c
+Salary Prediction System
+Job Recommendation
+Viewers Prediction
+
+
+Classification - Categorical
+Logistic Regression
+K-Nearest Neighbors
+- Movie Recommendation System
+Naive Bayes
+Support Vector Machines
+Decision Tree
+
+Email Filter
+
+
+Unsupervised Learning
+Clustering
+Dimensionality Reduction
+PCA
+
+NLP - Natural Langugae Processing
+NLTK
+Text Classification
+Text Summarizer
+Sentiment Analysis
+
+Deep Learning
+Supervised
+Artificial Neural Networks
+Convolutional Neural Networks
+Recurrent Neural Networks - LSTM
+Long Short Term Memory
+Time series
+
+Unsupervised
+Autoencoders
+Self Organized Maps
+Deep Boltzman Machine
+
+Theano
+Tensorflow
+Keras
+Pytorch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
