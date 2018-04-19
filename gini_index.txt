@@ -1,0 +1,7 @@
+Calculate the Gini index for a split dataset
+this is the name of the cost function used to evaluate splits in the dataset.
+this is a measure of how often a randomly chosen element from the set would be incorrectly labeled if it was randomly labeled according to the distribution of labels in the subset. Can be computed by summing the probability of an item with label i being chosen times the probability of a mistake in categorizing that item. 
+It reaches its minimum (zero) when all cases in the node fall into a single target category. A split in the dataset involves one input attribute and one value for that attribute. 
+It can be used to divide training patterns into two groups of rows.
+A Gini score gives an idea of how good a split is by how mixed the classes are in the two groups created by the split. A perfect separation results in a Gini score of 0, whereas the worst case split that results in 50/50 classes in each group results in a Gini score of 1.0 (for a 2 class problem).
+We first need to calculate the proportion of classes in each group.
